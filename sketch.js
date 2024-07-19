@@ -1,6 +1,6 @@
 function setup() {
   // create a surface to draw in 
-  createCanvas(700, 480);
+  createCanvas(900, 480);
     background("pink");
 }
 
